@@ -1,1 +1,1 @@
-# Sistemas-Inteligentes-Java-Python
+# Sistemas Inteligentes Java/Python
